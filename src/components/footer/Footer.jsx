@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <div className="footer-left">
-        <h1 className="footer-logo">Rise Of Shopping.</h1>
+        <h1 className="footer-logo">ClickNCart.</h1>
         <p className="footer-desc">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt,
           optio totam. Voluptatibus assumenda laboriosam possimus praesentium

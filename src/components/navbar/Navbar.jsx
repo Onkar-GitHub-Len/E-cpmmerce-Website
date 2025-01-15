@@ -20,7 +20,7 @@ const Navbar = () => {
 
         <div className="navbar-center">
           <h1 className="navbar-logo">
-            Rise Of Shoping <span>.</span>
+            ClickNCart<span>.</span>
           </h1>
         </div>
 
